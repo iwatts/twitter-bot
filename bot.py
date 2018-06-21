@@ -12,6 +12,24 @@ auth.set_access_token(access_token, access_token_secret)
  #Construct the API instance
 api = tweepy.API(auth) # create an API object
 
-public_tweets = api.home_timeline()
-for tweet in public_tweets:
-    print(tweet.text)
+#public_tweets = api.home_timeline()
+#for tweet in public_tweets:
+#    print(tweet.text)
+
+#create a class inherithing from the tweepy  StreamListener
+class BotStreamer(tweepy.StreamListener):
+
+    # Called when a new status arrives which is passed down from the on_data method of the StreamListener
+    def on_status(self, status):
+        username = status.user.screen_name 
+        status_id = status.id
+
+        if '@The_Icean' in status.user_mentions
+
+
+myStreamListener = BotStreamer()
+
+ #Construct the Stream instance
+stream = tweepy.Stream(auth, myStreamListener)
+
+stream.filter(track=['@The_Icean'])
