@@ -41,3 +41,7 @@ stream = tweepy.Stream(auth, myStreamListener)
 
 stream.filter(track=['@The_Icean'])
 
+
+# Add Registration and Start
+# Evaluate user messages
+# Return Message depending on user input
