@@ -16,6 +16,13 @@ api = tweepy.API(auth) # create an API object
 #for tweet in public_tweets:
 #    print(tweet.text)
 
+def responed_adv(username, status_id):
+    print("Responding")
+    msg = "I am a bot, responding to your tweet."
+    api.update_status(status=msg, in_reply_to_status_id=status_id)
+
+
+
 #create a class inherithing from the tweepy  StreamListener
 class BotStreamer(tweepy.StreamListener):
 
@@ -24,12 +31,13 @@ class BotStreamer(tweepy.StreamListener):
         username = status.user.screen_name 
         status_id = status.id
 
-        if '@The_Icean' in status.user_mentions
+        responed_adv(username, status_id)
 
 
 myStreamListener = BotStreamer()
 
- #Construct the Stream instance
+#Construct the Stream instance
 stream = tweepy.Stream(auth, myStreamListener)
 
 stream.filter(track=['@The_Icean'])
+
