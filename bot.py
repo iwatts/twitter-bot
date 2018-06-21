@@ -19,7 +19,7 @@ api = tweepy.API(auth) # create an API object
 def responed_adv(username, status_id):
     print("Responding")
     msg = "I am a bot, responding to your tweet."
-    api.update_status(status=msg, in_reply_to_status_id=status_id)
+    api.update_status(msg, status_id)
 
 
 
