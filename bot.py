@@ -16,9 +16,13 @@ api = tweepy.API(auth) # create an API object
 #for tweet in public_tweets:
 #    print(tweet.text)
 
-def responed_adv(username, status_id):
+def responder_agb(username, status_id, received_msg):
     print("Responding")
     msg = "I am a bot, responding to your tweet."
+
+    #update msg
+    #msg = listener_thing(received_msg)
+    
     api.update_status(msg, status_id)
 
 
@@ -30,8 +34,9 @@ class BotStreamer(tweepy.StreamListener):
     def on_status(self, status):
         username = status.user.screen_name 
         status_id = status.id
+        received_msg = status.full_text
 
-        responed_adv(username, status_id)
+        responder_agb(username, status_id, received_msg)
 
 
 myStreamListener = BotStreamer()
@@ -39,7 +44,7 @@ myStreamListener = BotStreamer()
 #Construct the Stream instance
 stream = tweepy.Stream(auth, myStreamListener)
 
-stream.filter(track=['@The_Icean'])
+stream.filter(track=['@The_Icean'], tweet_mode='extended')
 
 
 # Add Registration and Start
