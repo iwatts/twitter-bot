@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"to",
+				"total_pages"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"pro",
+				"productivity"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"get",
+				"get_all_ss_urls"
+			],
+			[
+				"ss",
+				"ss_link"
+			],
+			[
+				"fin",
+				"findElementById"
+			],
+			[
+				"us",
+				"username"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "bot.py",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/isaacwatts/Desktop/twitter-bot"
+	],
+	"file_history":
+	[
+		"/Users/isaacwatts/Desktop/twitter-bot/README.md",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/three-secrets-it-transformation.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/three-secrets-it-transformation.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/three-secrets-it-transformation.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/three-secrets-it-transformation.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/open-source-heart-it-transformation.html",
+		"/Users/isaacwatts/Desktop/twitter-bot/credentials.py",
+		"/Users/isaacwatts/Desktop/twitter-bot/bot.py",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/open-source-heart-it-transformation.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/open-source-heart-it-transformation.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/open-source-heart-it-transformation.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Bugs/hpc-storage.html",
+		"/Users/isaacwatts/Desktop/Suse/Bugs/formbuilder.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/digital-transformation-with-sap-latam.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/digital-transformation-with-sap-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/powering-artificial-intelligence-with-HPC.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/move-to-sap-hana-means-move-to-linux-latam.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/data-storage-growth-total-cost-ownership-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/powering-artificial-intelligence-with-HPC-latam.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/data-storage-growth-total-cost-ownership-latam.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/data-storage-growth-total-cost-ownership.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/data-storage-growth-total-cost-ownership-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/powering-artificial-intelligence-with-HPC.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/pt/powering-artificial-intelligence-with-HPC.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/powering-artificial-intelligence-with-HPC-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/powering-artificial-intelligence-with-HPC.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/powering-artificial-intelligence-with-HPC-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/data-storage-growth-total-cost-ownership.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/pt/data-storage-growth-total-cost-ownership.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/digital-transformation-with-sap.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/digital-transformation-with-sap.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/digital-transformation-with-sap-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/data-storage-growth-total-cost-ownership.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/ty/move-to-sap-hana-means-move-to-linux.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/ty/sop.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/data-storage-growth-total-cost-ownership.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/move-to-sap-hana-means-move-to-linux.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/move-to-sap-hana-means-move-to-linux.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/th/move-to-sap-hana-means-move-to-linux.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/move-to-sap-hana-means-move-to-linux.html",
+		"/Users/isaacwatts/Desktop/Suse/Bugs/state_list.blade.php",
+		"/Users/isaacwatts/Downloads/state_list.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Bugs/00100050.html",
+		"/Users/isaacwatts/Desktop/Suse/Bugs/system-test-tools-for-suse-linux.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/move-to-sap-hana-means-move-to-linux-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/lb-links",
+		"/Users/isaacwatts/Desktop/Suse/eula.html",
+		"/Users/isaacwatts/Desktop/Suse/eula_archive.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/fr/data-storage-growth-total-cost-ownership.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/poland.resources.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/move-to-sap-hana-means-move-to-linux-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/ty/business-critical-applications-need-nonstop-it.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/fr/data-storage-growth-total-cost-ownership.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/business-critical-applications-need-nonstop-it.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/fr/sop.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/fr/data-storage-growth-total-cost-ownership-latam.html",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/fr/data-storage-growth-total-cost-ownership-latam.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/Landing Pages/business-critical-applications-need-nonstop-it.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/jeos.html",
+		"/Users/isaacwatts/Desktop/Suse/system-test-tools-for-suse-linux.html",
+		"/Users/isaacwatts/Desktop/Suse/ss-contact.html",
+		"/Users/isaacwatts/Desktop/Suse/sec.txt",
+		"/Users/isaacwatts/Desktop/Suse/tab-nav.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/suse-enterprise.html",
+		"/Users/isaacwatts/Desktop/Suse/disk-to-disk-backup-storage-requirements.html",
+		"/Users/isaacwatts/Desktop/Suse/prodDefault.html",
+		"/Users/isaacwatts/Desktop/Suse/caas-platform.html",
+		"/Users/isaacwatts/Desktop/Suse/desktop.html",
+		"/Users/isaacwatts/Desktop/Suse/HAE.html",
+		"/Users/isaacwatts/Desktop/Suse/livepatching.html",
+		"/Users/isaacwatts/Desktop/Suse/workstation-extension.html",
+		"/Users/isaacwatts/Desktop/Suse/power.html",
+		"/Users/isaacwatts/Desktop/Suse/sles-for-sap.html",
+		"/Users/isaacwatts/Desktop/Suse/hpc.html",
+		"/Users/isaacwatts/Desktop/Suse/systemz.html",
+		"/Users/isaacwatts/Desktop/Suse/prodDefault.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/desktop-tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/tier-4.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/systemz-tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/hae-tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/livepatching-tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/caas.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/power-tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/sles-for-sap-tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/tier-4.html",
+		"/Users/isaacwatts/Desktop/Suse/features.html",
+		"/Users/isaacwatts/Desktop/Suse/tiar-4.html",
+		"/Users/isaacwatts/Desktop/scp/SCP/templates/base.html",
+		"/Users/isaacwatts/Desktop/scp/SCP/templates/index.html",
+		"/Users/isaacwatts/Desktop/scp/SCP/templates/search_results.html",
+		"/Users/isaacwatts/Desktop/scp/SCP/static/css/main.less",
+		"/Users/isaacwatts/Desktop/scp/SCP/bot_code/config.json",
+		"/Users/isaacwatts/Desktop/scp/SCP/static/css/main.css",
+		"/Users/isaacwatts/Desktop/Suse/sles-for-sap.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/workstation-extension.blade.php",
+		"/Users/isaacwatts/Desktop/Suse/desktop.blade.php",
+		"/Users/isaacwatts/Desktop/SCP_notes",
+		"/Users/isaacwatts/Desktop/config.ytlist.json",
+		"/Users/isaacwatts/Desktop/Suse/HAE.blade.html",
+		"/Users/isaacwatts/Desktop/Suse/hpc.blade.html",
+		"/Users/isaacwatts/Desktop/Python/Launch.sh",
+		"/Users/isaacwatts/Desktop/Python/habScript.py",
+		"/Users/isaacwatts/Desktop/Python/wpScript.py",
+		"/Users/isaacwatts/Desktop/Python/config.json",
+		"/Users/isaacwatts/Desktop/Python/README.md",
+		"/Users/isaacwatts/Desktop/stories/abeam-consulting.html",
+		"/Users/isaacwatts/Desktop/stories/ache.html",
+		"/Users/isaacwatts/Desktop/stories/agricultural-development-bank-of-china.html",
+		"/Users/isaacwatts/Desktop/stories/air-india.html",
+		"/Users/isaacwatts/Desktop/stories/aguas-de-portugal.html",
+		"/Users/isaacwatts/Desktop/stories/alegri-international-service-gmbh.html",
+		"/Users/isaacwatts/Desktop/stories/alegri-international-service-gmbh-case-study.html",
+		"/Users/isaacwatts/Desktop/stories/allone.html",
+		"/Users/isaacwatts/Desktop/stories/altran.html",
+		"/Users/isaacwatts/Desktop/stories/apa-it-informations-technologie-gmbh.html",
+		"/Users/isaacwatts/Desktop/stories/apollo-optik.html",
+		"/Users/isaacwatts/Desktop/stories/appriss.html",
+		"/Users/isaacwatts/Desktop/stories/apx.html",
+		"/Users/isaacwatts/Desktop/stories/archiva.html",
+		"/Users/isaacwatts/Desktop/stories/asia-innovatory-management-school.html",
+		"/Users/isaacwatts/Desktop/stories/ask.html",
+		"/Users/isaacwatts/Desktop/stories/atlantique-automatismes-incendie.html",
+		"/Users/isaacwatts/Desktop/stories/atlas-elektronik.html",
+		"/Users/isaacwatts/Desktop/stories/autodata-norge-as.html",
+		"/Users/isaacwatts/Desktop/stories/baldor-electric-more.html",
+		"/Users/isaacwatts/Desktop/stories/bank-of-tokyo-mitsubishi.html",
+		"/Users/isaacwatts/Desktop/stories/baldor-electric.html",
+		"/Users/isaacwatts/Desktop/stories/beijing-computing-center.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"title",
+			"first",
+			".promo-banner .banner",
+			"banner",
+			"promo-banner",
+			"\">",
+			"ownership",
+			"�",
+			"oles",
+			"�",
+			"espa",
+			"�",
+			"SOC Test Kit for Linux Quick start Start PDF",
+			"Storage Test Kit Documentation",
+			"OpenStack Cloud Test Kit",
+			"Storage Test Kit",
+			"Test Tools allow you to certify a storage cluster for",
+			"SUSE Enterprise Storage (SES) latest released version",
+			"USE Enterprise Storage (SES) latest released version",
+			"SUSE Enterprise Storage (SES) Test Tools allow you to certify a storage cluster for",
+			"Storage Test Tools for SUSE Enterprise Storage allow you to test certified systems in a storage cluster for",
+			"Download the current SOC test kit",
+			"SUSE OpenStack Cloud 8",
+			"SUSE OpenStack Cloud 7",
+			"OpenStack Cloud",
+			"net.ipv4.conf",
+			"net.ipv4.conf.etho.rp_filter = 1 (or 2)",
+			"zypper",
+			"GSDGNIT32474",
+			"GSDGNDX32472",
+			"tech-items",
+			"MONITORING",
+			"Alan",
+			"Alan Gao",
+			"$cvents",
+			"supercomputin",
+			"Technial",
+			"environ",
+			"Enteprise",
+			"appraoch",
+			"SUSE Linux Enterprise Server for SAP Applications",
+			"=\"/"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "bot.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tb.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
