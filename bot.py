@@ -6,10 +6,9 @@ from credentials import *
 #create an OAuthHandler instance
 # Twitter requires all requests to use OAuth for authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret) 
-
 auth.set_access_token(access_token, access_token_secret)
 
- #Construct the API instance
+#Construct the API instance
 api = tweepy.API(auth) # create an API object
 
 #public_tweets = api.home_timeline()
@@ -20,8 +19,11 @@ def responder_agb(username, status_id, received_msg):
     print("Responding")
     msg = "I am a bot, responding to your tweet."
 
-    #update msg
-    #msg = listener_thing(received_msg)
+    #Check if user is member:
+	#	update msg
+    #	msg = game_listener(received_msg)
+    #else:
+    #	msg = admin_listener()
     
     api.update_status(msg, status_id)
 
@@ -43,10 +45,7 @@ myStreamListener = BotStreamer()
 
 #Construct the Stream instance
 stream = tweepy.Stream(auth, myStreamListener)
-
 stream.filter(track=['@The_Icean'], tweet_mode='extended')
 
 
 # Add Registration and Start
-# Evaluate user messages
-# Return Message depending on user input
