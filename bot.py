@@ -12,15 +12,14 @@ auth.set_access_token(access_token, access_token_secret)
 #Construct the API instance
 api = tweepy.API(auth) # create an API object
 
+#DB connection
 conn = sqlite3.connect('test.db') # Connect to DB
 c = conn.cursor()
+# has users table with Name, Date, unique ID, highscore
 
-#public_tweets = api.home_timeline()
-#for tweet in public_tweets:
-#    print(tweet.text)
 
 def user_validate(username):
-    c.execute("SELECT count(*) FROM components WHERE name = ?", (username))
+    c.execute("SELECT count(*) FROM users WHERE name = ?", (username))
     data=c.fetchone()[0]
     if data==0:
         print('There is no user named %s'%name)
@@ -40,11 +39,11 @@ def responder_agb(username, status_id, received_msg):
     #	msg = admin_listener()
     is_Mem = user_validate(username)
 
-    if(!is_Mem):
+    if(is_Mem):
+        msg = "You are already signed up!"
+    else:
         # check if they tweeted register, if true, add to DB
         msg = "You are not yet signed up! Tweet \"Register\" to join!"
-    else:
-        msg = "You are already signed up!"
     
     api.update_status(msg, status_id)
 
