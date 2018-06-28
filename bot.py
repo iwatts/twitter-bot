@@ -2,6 +2,8 @@
 
 import tweepy
 import sqlite3
+import datetime
+
 from credentials import *
 
 #create an OAuthHandler instance
